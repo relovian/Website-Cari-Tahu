@@ -1,0 +1,92 @@
+[
+  {
+    "nama_upacara": "Sekaten",
+    "asal_daerah": "Surakarta",
+    "deskripsi": "Sekaten adalah upacara tradisional yang diadakan untuk memperingati kelahiran Nabi Muhammad SAW. Upacara ini diselenggarakan selama seminggu penuh di pelataran Masjid Agung Surakarta, dan diisi dengan pertunjukan gamelan sekaten, pasar malam, serta pembacaan syair-syair Islami. Kegiatan ini merupakan akulturasi antara budaya Islam dan tradisi Jawa.",
+    "waktu_pelaksanaan": "Bulan Rabiul Awal (Maulid)",
+    "makna": "Menyebarkan ajaran Islam dan sebagai bentuk penghormatan terhadap Nabi Muhammad SAW.",
+    "gambar": "../image/sekaten.jpg",
+    "videos_src": "https://www.youtube.com/embed/u2aKgoNxU8Q?si=_Bo6PHpwBnSiTocE"
+  },
+  {
+    "nama_upacara": "Grebeg Maulud",
+    "asal_daerah": "Yogyakarta & Surakarta",
+    "deskripsi": "Grebeg Maulud merupakan tradisi kerajaan yang menampilkan kirab gunungan berisi hasil bumi seperti sayur-sayuran dan makanan tradisional. Gunungan ini diarak dari keraton menuju masjid, lalu dibagikan kepada masyarakat sebagai simbol kesejahteraan dan sedekah dari raja kepada rakyatnya.",
+    "waktu_pelaksanaan": "Bulan Maulid (Rabiul Awal)",
+    "makna": "Melambangkan rasa syukur dan bentuk kepedulian sosial dari pemimpin kepada rakyat.",
+    "gambar": "../image/Grebeg_Maulud.jpeg",
+    "videos_src": "https://www.youtube.com/embed/_igVDcxYuUA?si=VhzE11Hf_RMSlYb9"
+  },
+  {
+    "nama_upacara": "Nyadran",
+    "asal_daerah": "Magelang",
+    "deskripsi": "Nyadran adalah tradisi ziarah kubur yang dilakukan menjelang bulan Ramadan. Masyarakat membersihkan makam leluhur, berdoa bersama, dan membawa makanan untuk dibagikan. Tradisi ini menjadi ajang silaturahmi keluarga besar dan mengingat jasa para leluhur.",
+    "waktu_pelaksanaan": "Menjelang Ramadan",
+    "makna": "Penghormatan terhadap leluhur dan penyucian diri menjelang bulan suci.",
+    "gambar": "../image/nyadran.jpg",
+    "videos_src": "https://www.youtube.com/embed/Tm4i3BSMWOc?si=b22cs1z3R1j-6GO_"
+  },
+  {
+    "nama_upacara": "Ruwatan",
+    "asal_daerah": "Surakarta",
+    "deskripsi": "Ruwatan adalah upacara adat yang bertujuan untuk membuang sial atau nasib buruk. Upacara ini dilakukan dengan pertunjukan wayang kulit semalam suntuk dan prosesi khusus oleh dalang. Biasanya dilakukan untuk anak-anak sukerta atau orang-orang yang dianggap membawa kesialan.",
+    "waktu_pelaksanaan": "Tidak tentu, sesuai kebutuhan",
+    "makna": "Sebagai bentuk permohonan kepada Tuhan agar terhindar dari bahaya atau kesialan.",
+    "gambar": "../image/Ruwatan.jpeg",
+    "videos_src": "https://www.youtube.com/embed/KHs1u6Is7Wc?si=vo0VO2JTHJ-ZnWcB"
+  },
+  {
+    "nama_upacara": "Grebeg Besar",
+    "asal_daerah": "Demak",
+    "deskripsi": "Grebeg Besar adalah upacara yang dilakukan pada hari raya Idul Adha di Masjid Agung Demak. Tradisi ini melibatkan iring-iringan prajurit dan gunungan hasil bumi. Upacara ini berakar dari tradisi kerajaan Islam dan menjadi simbol syukur serta perayaan keagamaan.",
+    "waktu_pelaksanaan": "Idul Adha",
+    "makna": "Simbol pengorbanan dan syukur dalam merayakan Hari Raya Kurban.",
+    "gambar": "../image/grebeg_besar.jpg",
+    "videos_src": "https://www.youtube.com/embed/ylcFJMwcb5E?si=5V8d3TNWdctjlhfw"
+  },
+  {
+    "nama_upacara": "Apeman",
+    "asal_daerah": "Klaten",
+    "deskripsi": "Upacara Apeman dilakukan dengan membuat dan membagikan kue apem kepada tetangga dan sanak saudara. Tradisi ini dilakukan sebagai bentuk permohonan maaf dan simbol pembersihan diri menjelang Ramadan. Apem melambangkan permohonan ampun dan pengampunan dosa.",
+    "waktu_pelaksanaan": "Menjelang Ramadan",
+    "makna": "Permohonan ampun dan wujud saling memaafkan antar warga.",
+    "gambar": "../image/apeman.jpg",
+    "videos_src": "https://www.youtube.com/embed/o2-rmzHU-4I?si=Chu2jSMPj-hfHjeX"
+  },
+  {
+    "nama_upacara": "Dugderan",
+    "asal_daerah": "Semarang",
+    "deskripsi": "Dugderan adalah festival budaya yang menjadi penanda masuknya bulan Ramadan di Kota Semarang. Ciri khasnya adalah arak-arakan warak ngendog, yaitu makhluk imajiner yang menjadi simbol toleransi dan keberagaman. Acara ini juga diisi dengan pasar malam dan pertunjukan seni.",
+    "waktu_pelaksanaan": "Menjelang Ramadan",
+    "makna": "Menyambut datangnya bulan suci Ramadan dengan suka cita.",
+    "gambar": "../image/Dugderan.jpeg",
+    "videos_src": "https://www.youtube.com/embed/XeWxV4ZER7E?si=dyr3MKHw9nZsq_58"
+  },
+  {
+    "nama_upacara": "Sedekah Laut",
+    "asal_daerah": "Cilacap",
+    "deskripsi": "Sedekah Laut merupakan ritual tahunan para nelayan yang memberikan sesajen ke laut sebagai bentuk rasa syukur atas rezeki yang diberikan oleh laut. Acara ini biasanya disertai dengan kirab budaya dan hiburan rakyat di pesisir pantai.",
+    "waktu_pelaksanaan": "Awal Sura (penanggalan Jawa)",
+    "makna": "Ungkapan syukur kepada laut sebagai sumber kehidupan.",
+    "gambar": "../image/sedekah_laut.jpg",
+    "videos_src": "https://www.youtube.com/embed/lv0TitlhBkc?si=gPUt0h3la_d-bW3a"
+  },
+  {
+    "nama_upacara": "Baritan",
+    "asal_daerah": "Tegal",
+    "deskripsi": "Baritan adalah tradisi selamatan atau sedekah bumi yang dilaksanakan oleh masyarakat pesisir di Tegal. Acara ini biasanya dilakukan dengan membawa makanan ke tempat tertentu seperti pantai atau makam leluhur, sebagai bentuk rasa syukur atas hasil laut dan doa agar terhindar dari bencana. Upacara ini juga diiringi dengan kesenian tradisional dan pertunjukan rakyat.",
+    "waktu_pelaksanaan": "Bulan Sura (kalender Jawa)",
+    "makna": "Ungkapan syukur dan permohonan keselamatan kepada Tuhan serta penghormatan kepada leluhur.",
+    "gambar": "../image/baritan.jpg",
+    "videos_src": "https://www.youtube.com/embed/hVTAWVxs5Yc?si=kiUWDPlqvyK5Wdiw"
+  },
+  {
+    "nama_upacara": "Jamasan Pusaka",
+    "asal_daerah": "Surakarta",
+    "deskripsi": "Jamasan Pusaka adalah ritual pencucian benda-benda pusaka milik keraton seperti keris, tombak, dan gamelan. Prosesi ini dilakukan secara sakral dan penuh penghormatan. Tradisi ini menunjukkan pentingnya menjaga warisan budaya dan spiritual masyarakat Jawa.",
+    "waktu_pelaksanaan": "Sura (Tahun Baru Jawa)",
+    "makna": "Penyucian dan penghormatan terhadap benda pusaka leluhur.",
+    "gambar": "../image/jamasan.jpeg",
+    "videos_src": "https://www.youtube.com/embed/gnJw7GicgkA?si=cxH7zBKRT7_mzLj3"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "nama_upacara": "Seren Taun",
+    "asal_daerah": "Kuningan",
+    "deskripsi": "Seren Taun adalah upacara syukur atas panen padi yang dilaksanakan oleh masyarakat Sunda, khususnya di Cigugur, Kuningan. Upacara ini dimulai dengan arak-arakan padi dari lumbung-lumbung warga ke balai adat, diiringi gamelan, angklung, dan tarian tradisional. Acara puncaknya adalah penyerahan padi kepada kasepuhan sebagai simbol rasa syukur dan doa untuk panen berikutnya.",
+    "waktu_pelaksanaan": "Akhir musim panen (biasanya Agustus sampai September)",
+    "makna": "Ungkapan syukur atas hasil panen dan harapan untuk kesejahteraan",
+    "gambar": "../image/seren_taun.jpg",
+    "videos_src": "https://www.youtube.com/embed/MUaWHzvUWcs?si=TV3ktDPLKtnWjj_U"
+  },
+  {
+    "nama_upacara": "Sisingaan",
+    "asal_daerah": "Subang",
+    "deskripsi": "Sisingaan adalah kesenian arak-arakan yang digunakan dalam perayaan sunatan (khitan) anak laki-laki di Subang. Anak yang dikhitan diarak di atas tandu berbentuk singa yang dipanggul oleh empat orang. Selain hiburan, Sisingaan juga menjadi simbol kebanggaan, kekuatan, dan harapan agar anak tumbuh menjadi pribadi yang tangguh.",
+    "waktu_pelaksanaan": "Saat khitanan atau hari besar budaya",
+    "makna": "Simbol kebanggaan dan transisi menuju kedewasaan",
+    "gambar": "../image/sisingan.jpg",
+    "videos_src": "https://www.youtube.com/embed/UXjBtUqYeBY?si=YsgV6WZbmy3WCY7H"
+  },
+  {
+    "nama_upacara": "Ngarot",
+    "asal_daerah": "Indramayu",
+    "deskripsi": "Ngarot adalah upacara adat yang melibatkan para pemuda-pemudi desa yang mengenakan pakaian adat lengkap dengan hiasan bunga di kepala. Mereka berbaris ke balai desa sebagai simbol kesiapan memasuki masa dewasa dan peran sosial. Tradisi ini juga bertujuan menjaga keharmonisan dan mempererat silaturahmi antarwarga.",
+    "waktu_pelaksanaan": "Bulan Desember, sebelum musim tanam",
+    "makna": "Simbol kesiapan remaja dalam memasuki kehidupan bermasyarakat",
+    "gambar": "../image/Ngarot.jpg",
+    "videos_src": "https://www.youtube.com/embed/SR4ZkW3VGeo?si=G5eZntsBZx6lbFSX"
+  },
+  {
+    "nama_upacara": "Ngabungbang",
+    "asal_daerah": "Cianjur",
+    "deskripsi": "Ngabungbang adalah upacara mandi bersama di sungai atau danau suci yang dilakukan oleh masyarakat Cianjur untuk membersihkan diri secara lahir dan batin. Biasanya dipimpin oleh juru kunci dan diiringi doa-doa serta musik tradisional. Tradisi ini telah diwariskan secara turun-temurun dan masih dilestarikan sampai sekarang.",
+    "waktu_pelaksanaan": "Tiap tahun di bulan Maulid (Rabiul Awal)",
+    "makna": "Pembersihan jiwa dan permohonan berkah kepada Tuhan",
+    "gambar": "../image/ngabungbang.jpg",
+    "videos_src": "https://www.youtube.com/embed/AGimMPCATN8?si=VA-e1_k4Ii30AHGw"
+  },
+  {
+    "nama_upacara": "Tawur Agung",
+    "asal_daerah": "Bandung",
+    "deskripsi": "Tawur Agung adalah upacara pembersihan alam semesta dari pengaruh negatif, yang dilakukan menjelang Hari Raya Nyepi oleh umat Hindu di Bandung dan sekitarnya. Upacara ini ditandai dengan pawai ogoh-ogoh dan pembacaan mantra. Meski berasal dari Bali, pelaksanaannya di Jawa Barat menyesuaikan konteks lokal.",
+    "waktu_pelaksanaan": "Sehari sebelum Hari Nyepi",
+    "makna": "Pembersihan alam dan batin dari energi jahat",
+    "gambar": "../image/Tawur.jpg",
+    "videos_src": "https://www.youtube.com/embed/bKjQRAD1Wws?si=yL1uxYszzWe7AurF"
+  },
+  {
+    "nama_upacara": "Rebo Wekasan",
+    "asal_daerah": "Cirebon",
+    "deskripsi": "Rebo Wekasan adalah tradisi masyarakat Cirebon yang dilakukan setiap Rabu terakhir di bulan Safar. Tradisi ini berupa ziarah kubur, doa bersama, serta membagikan makanan kepada sesama. Tujuannya adalah tolak bala, agar masyarakat dijauhkan dari bencana dan penyakit dalam satu tahun ke depan.",
+    "waktu_pelaksanaan": "Rabu terakhir di bulan Safar (penanggalan Hijriyah)",
+    "makna": "Tolak bala dan perlindungan dari bahaya selama satu tahun",
+    "gambar": "../image/rebo.png",
+    "videos_src": "https://www.youtube.com/embed/CuCf8dywRf4?si=X6-vA79MEVmSTAg1"
+  },
+  {
+    "nama_upacara": "Mapag Sri",
+    "asal_daerah": "Majalengka",
+    "deskripsi": "Mapag Sri merupakan upacara adat menyambut datangnya Dewi Sri, dewi kesuburan dalam kepercayaan tradisional Sunda. Petani membawa sesajen dan padi ke sawah sambil membacakan mantra serta memainkan gamelan. Tradisi ini merupakan bentuk rasa syukur dan harapan agar musim tanam diberkahi.",
+    "waktu_pelaksanaan": "Awal musim tanam",
+    "makna": "Memohon berkah dan kesuburan dari Dewi Sri",
+    "gambar": "../image/Mapag.jpg",
+    "videos_src": "https://www.youtube.com/embed/lxZDTX0Ljaw?si=-A2pk1fgGkg7--Ca"
+  },
+  {
+    "nama_upacara": "Ngapati",
+    "asal_daerah": "Garut",
+    "deskripsi": "Ngapati adalah tradisi yang dilakukan saat kehamilan memasuki usia empat bulan. Dalam ritual ini, dilakukan pembacaan doa dan pemberian makanan tertentu seperti nasi tumpeng dan telur. Masyarakat percaya bahwa pada usia ini ruh mulai ditiupkan ke janin, sehingga perlu diberi doa keselamatan.",
+    "waktu_pelaksanaan": "Kehamilan usia empat bulan",
+    "makna": "Doa keselamatan untuk ibu dan janin",
+    "gambar": "../image/ngapati.jpg",
+    "videos_src": "https://www.youtube.com/embed/2L-gKgGbslc?si=7IrAh7YBamlGV4MZ"
+  },
+  {
+    "nama_upacara": "Ngumbah Keris",
+    "asal_daerah": "Tasikmalaya",
+    "deskripsi": "Ngumbah Keris atau membersihkan keris adalah tradisi spiritual yang dilakukan oleh para pemilik keris pusaka. Mereka mencuci keris dengan air bunga dan limau sambil membaca doa-doa tertentu. Upacara ini mencerminkan penghormatan terhadap warisan leluhur dan kekuatan spiritual dalam pusaka.",
+    "waktu_pelaksanaan": "Setiap bulan Suro atau menjelang 1 Muharram",
+    "makna": "Membersihkan energi buruk dan menghormati pusaka leluhur",
+    "gambar": "../image/keris.jpg",
+    "videos_src": "https://www.youtube.com/embed/o-fKY76Qi6M?si=E7acNB3qB_3Jf9IL"
+  },
+  {
+    "nama_upacara": "Seblang",
+    "asal_daerah": "Ciamis",
+    "deskripsi": "Seblang adalah tarian sakral yang dilakukan oleh perempuan yang dipilih secara spiritual. Dalam pertunjukan ini, penari seperti dalam keadaan trance dan dipercaya dapat membersihkan desa dari hal-hal buruk. Meski lebih dikenal di Banyuwangi, varian lokal Seblang juga dijaga oleh komunitas adat di Ciamis.",
+    "waktu_pelaksanaan": "Setelah panen atau saat desa alami gangguan",
+    "makna": "Tolak bala dan membersihkan energi negatif di desa",
+    "gambar": "../image/seblang.jpg",
+    "videos_src": "https://www.youtube.com/embed/wRfhzyF98CI?si=PNe06owy4GAwvObA"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "nama_upacara": "Yadnya Kasada",
+    "asal_daerah": "Probolinggo",
+    "deskripsi": "Yadnya Kasada adalah upacara suku Tengger di kawasan Gunung Bromo, di mana masyarakat melemparkan hasil panen dan sesajen ke dalam kawah gunung sebagai bentuk rasa syukur dan penghormatan kepada leluhur serta Sang Hyang Widhi. Ritual ini juga memperingati legenda Roro Anteng dan Joko Seger.",
+    "waktu_pelaksanaan": "Bulan Kasada, tanggal 14 (kalender Tengger)",
+    "makna": "Permohonan berkah, keselamatan, dan penghormatan kepada leluhur",
+    "gambar": "../image/yadKasada.jpeg",
+    "videos_src": "https://www.youtube.com/embed/Cm_RR9sFpbE?si=27YsYFfiA3ZVolA4"
+  },
+  {
+    "nama_upacara": "Kebo-Keboan",
+    "asal_daerah": "Banyuwangi",
+    "deskripsi": "Kebo-Keboan adalah tradisi masyarakat Suku Osing di Banyuwangi yang menampilkan warga berdandan seperti kerbau dan berlagak seperti membajak sawah. Ritual ini dilakukan sebagai wujud doa agar hujan turun dan hasil panen melimpah.",
+    "waktu_pelaksanaan": "Setiap awal musim tanam (penanggalan adat)",
+    "makna": "Memohon kesuburan tanah dan keberlimpahan hasil panen",
+    "gambar": "../image/kebo_keboan.jpg",
+    "videos_src": "https://www.youtube.com/embed/xDTFXetVX-8?si=_zt-LafB0zrrt-2T"
+  },
+  {
+    "nama_upacara": "Larung Sembonyo",
+    "asal_daerah": "Trenggalek",
+    "deskripsi": "Larung Sembonyo adalah upacara sedekah laut yang dilakukan oleh nelayan di Pantai Prigi, Kabupaten Trenggalek. Dalam tradisi ini, masyarakat melarung kepala sapi dan berbagai hasil bumi ke laut sebagai persembahan kepada laut agar diberikan rezeki dan keselamatan.",
+    "waktu_pelaksanaan": "Senin Kliwon di bulan Selo",
+    "makna": "Syukur atas hasil laut dan keselamatan dalam melaut",
+    "gambar": "../image/larung_semboyan.jpeg",
+    "videos_src": "https://www.youtube.com/embed/Q8A_LRE2IKU?si=DdbgyxVei7pgck2O"
+  },
+  {
+    "nama_upacara": "Keduk Beji",
+    "asal_daerah": "Ngawi",
+    "deskripsi": "Upacara Keduk Beji dilaksanakan di Sendang Tawun, Ngawi, dan dilakukan dengan membersihkan mata air serta larung sesaji. Kegiatan ini juga dimeriahkan dengan kirab budaya, sebagai bentuk pelestarian budaya dan permohonan air bersih yang terus mengalir.",
+    "waktu_pelaksanaan": "Selasa Kliwon sebelum bulan Suro",
+    "makna": "Pelestarian sumber air dan harapan akan berkah alam",
+    "gambar": "../image/Keduk_Beji.jpeg",
+    "videos_src": "https://www.youtube.com/embed/MuqiJxlitsE?si=YUuN3Wfuh-a7SEop"
+  },
+  {
+    "nama_upacara": "Larung Ari-Ari",
+    "asal_daerah": "Surabaya",
+    "deskripsi": "Larung Ari-Ari adalah tradisi masyarakat pesisir Surabaya yang melibatkan pelarungan ari-ari bayi ke laut. Ari-ari dibungkus kain putih dan dilarung sebagai simbol permohonan rezeki yang lancar dan kehidupan yang baik bagi si bayi.",
+    "waktu_pelaksanaan": "Beberapa hari setelah bayi lahir",
+    "makna": "Simbol harapan agar bayi mendapat kehidupan yang lancar dan berkah",
+    "gambar": "../image/Larung_AriAri.jpg",
+    "videos_src": "https://www.youtube.com/embed/wFgPMNQc3hI?si=wwT2bl9pHUTWffBk"
+  },
+  {
+    "nama_upacara": "Temu Manten Pegon",
+    "asal_daerah": "Surabaya",
+    "deskripsi": "Upacara ini adalah bagian dari pernikahan adat Jawa Timuran dengan pengaruh budaya Arab, yang menampilkan arak-arakan pengantin dengan busana khas Pegon (perpaduan Jawa dan Arab). Tradisi ini menonjolkan toleransi dan kekayaan budaya.",
+    "waktu_pelaksanaan": "Saat prosesi pernikahan adat",
+    "makna": "Simbol akulturasi budaya dan keharmonisan dalam pernikahan",
+    "gambar": "../image/temu_manten.jpg",
+    "videos_src": "https://www.youtube.com/embed/C5UR7s0xvrY?si=B3xZ3-OTd38-BKEL"
+  },
+  {
+    "nama_upacara": "Tedhak Siten",
+    "asal_daerah": "Malang",
+    "deskripsi": "Tedhak Siten adalah upacara yang dilakukan ketika seorang bayi pertama kali menginjakkan kaki di tanah. Prosesi ini melibatkan berbagai simbol seperti tangga tebu wulung dan kurungan ayam sebagai filosofi perjalanan hidup.",
+    "waktu_pelaksanaan": "Ketika bayi berusia 7-8 bulan (sudah bisa menginjakkan kaki)",
+    "makna": "Simbol kesiapan anak menghadapi kehidupan dunia",
+    "gambar": "../image/Tedhak.JPG",
+    "videos_src": "https://www.youtube.com/embed/azgY6mOvVzM?si=YiT3yp-mqfALe8N4"
+  },
+  {
+    "nama_upacara": "Ruwatan Dam Bagong",
+    "asal_daerah": "Trenggalek",
+    "deskripsi": "Upacara ini digelar di Dam Bagong, Trenggalek, sebagai bentuk tolak bala dan penghormatan kepada tokoh Menak Sopal. Tradisi ini diisi dengan pagelaran wayang, larung sesaji, dan penyembelihan kerbau sebagai bentuk penebusan dosa.",
+    "waktu_pelaksanaan": "Jumat Kliwon bulan Selo",
+    "makna": "Membersihkan desa dari hal-hal buruk dan bala",
+    "gambar": "../image/Ruwatan.jpeg",
+    "videos_src": "https://www.youtube.com/embed/Qq1j5LWUCVw?si=2W-sBA1MPBNLbZLK"
+  },
+  {
+    "nama_upacara": "Singo Ulung",
+    "asal_daerah": "Bondowoso",
+    "deskripsi": "Singo Ulung adalah pertunjukan barongan berbentuk singa besar, dipentaskan sebagai simbol kekuatan dan penjaga desa. Tradisi ini juga memperingati pertemuan Ki Singo Ulung dengan masyarakat asli Bondowoso di masa lalu.",
+    "waktu_pelaksanaan": "Setiap peringatan Hari Jadi Bondowoso",
+    "makna": "Penghormatan terhadap sejarah dan penjagaan simbolik desa",
+    "gambar": "../image/singo_ulung.png",
+    "videos_src": "https://www.youtube.com/embed/2tysk0EEpg0?si=6gEPnBnw8VGaJRHX"
+  },
+  {
+    "nama_upacara": "Larung Sesaji Tambakrejo",
+    "asal_daerah": "Blitar",
+    "deskripsi": "Upacara larung sesaji di Pantai Tambakrejo, Blitar, dilakukan oleh para nelayan untuk mengungkapkan rasa syukur atas rezeki laut. Sesajen dilarung ke laut berupa tumpeng, kepala kambing, dan hasil bumi lainnya.",
+    "waktu_pelaksanaan": "Setiap tahun pada bulan Suro",
+    "makna": "Permohonan keselamatan saat melaut dan limpahan hasil laut",
+    "gambar": "../image/larung_sasaji.png",
+    "videos_src": "https://www.youtube.com/embed/ozAPJ-XdgVI?si=4cI8ogPqquszIOpw"
+  }
+]
